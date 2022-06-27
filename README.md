@@ -27,7 +27,7 @@
 
 ### 👔 <ins>About Me:</ins>
 
-- 🔭 I'm currently working on [vikarn.com](https://get.vikarn.com) and [asta-chanda game](https://astachanda.vikarn.com) a ludo like multiplayer game.
+- 🔭 I'm currently working on [vikarn.com](https://get.vikarn.com) and [asta-chanda](https://astachanda.vikarn.com) a ludo like multiplayer game.
 - 🌱 I'm currently practising GDScript, Phaser3 and game engine programming
 - 💻 Interested in game development, graphics design and game engine programming
 - :video_game: Check out my opensource repositories [here](https://github.com/amitkhare?tab=repositories)
