@@ -21,7 +21,7 @@
 
 ***
 
-## 🏢 I'm a Graphics DEsigner and Web Developer, working with wasp3d/vizrt/adobe for design and Javascript/Node/Vue/Capacitor for Web development.
+## 🏢 I'm a Graphics Designer and Web Developer, working with wasp3d/vizrt/adobe for design and Javascript/Node/Vue/Capacitor for Web development.
 
 ***
 
