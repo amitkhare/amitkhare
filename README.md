@@ -82,8 +82,8 @@
 ### :thought_balloon: <ins>Random quote:</ins>
 
 ```
-in three words i can sum up everything i've learned about life:
-it goes on.
+In three words I can sum up everything I've learned about life:
+IT GOES ON.
 
 - Robert Frost
 ```
