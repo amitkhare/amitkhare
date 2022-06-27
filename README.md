@@ -50,13 +50,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="AmitKhare|Unity" width="40px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="AmitKhare|C#" width="40px" src="images/csharp.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="AmitKhare|C++" width="40px" src="images/c++.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="AmitKhare|Premake" width="40px" src="images/premake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="AmitKhare|OpenGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="AmitKhare|Python" width="40px" src="images/python.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="AmitKhare|VS" width="40px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="AmitKhare|VSCode" width="40px" src="images/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="AmitKhare|Blender" width="40px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align = "left">
