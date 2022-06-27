@@ -11,11 +11,11 @@
 <a href="https://www.linkedin.com/in/amitkumarkhare/">
   <img align="center" alt="AmitKumarKhare|LinkedIn" width="30px" src="images/linkedin.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/amitkumarkhare/">
+<a href="https://github.com/amitkhare/">
   <img align="center" alt="AmitKhare|GitHub" width="30px" src="images/github.png"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:me.amitkhare@gmail.com">
-  <img align="center" alt="AmitKumarKhare|Gmail" width="30px" src="images/gmail.png"/>
+<a href="mailto:amit@khare.co.in">
+  <img align="center" alt="AmitKumarKhare|Email" width="30px" src="images/gmail.png"/>
 </a>
 <br/>
 
