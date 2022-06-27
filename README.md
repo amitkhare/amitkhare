@@ -16,8 +16,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:me.amitkhare@gmail.com">
   <img align="center" alt="AmitKumarKhare|Gmail" width="30px" src="images/gmail.png"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" title="AMitKhare#xxx" alt="AmitKhare|Discord" width="30px" src="images/discord.png"/>
+</a>
 <br/>
 
 ***
